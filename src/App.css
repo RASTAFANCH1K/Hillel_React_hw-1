@@ -1,0 +1,8 @@
+.app-wrapper {
+  max-width: 500px;
+  padding: 50px;
+  margin: 25px auto;
+  border: 2px solid #e0e9f0;
+  border-radius: 5px;
+}
+

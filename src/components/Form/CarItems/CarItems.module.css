@@ -1,0 +1,6 @@
+.frame {
+  border: 2px solid #e0e9f0; 
+  border-radius: 5px;
+  height: 250px;
+  overflow: auto;
+}
